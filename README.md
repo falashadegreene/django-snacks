@@ -4,7 +4,7 @@
 
 ## Setup: 
 
-installation pages: `pip install django` and `pip install -r requirements.txt`
-Run Server: `python manage.py runserver`
-Test url and templates `python manage.py test`
+- installation pages: `pip install django` and `pip install -r requirements.txt`
+- Run Server: `python manage.py runserver`
+- Test url and templates `python manage.py test`
 
